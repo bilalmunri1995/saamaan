@@ -11,7 +11,7 @@
       "type": "icon",
       "wrap": false,
       "size": 1.1,
-      "radius": 60.0,
+      "radius": 50.0,
       "items": [
         {
 
@@ -68,25 +68,25 @@
       "layout": "bannerImage",
       "isSlider": true,
       "autoPlay": true,
-      "showNumber":false,
+      "showNumber": false,
       "design": "default",
       "showBackGround": true,
       "radius": 2.0,
       "items": [
         {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3NDcxMzM3MjcxNw==",
-          "image": "https://cdn.shopify.com/s/files/1/0267/3534/5709/files/Untitled-3_d0eea39b-b7ad-421b-98c2-4c0d03c157d1.png?v=1629551544",
-          "padding": 15.0
-        },
-        {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MjM2MzAzNTgwMQ==",
-          "image": "https://cdn.shopify.com/s/files/1/0267/3534/5709/files/Untitled-1.png?v=1629551544",
-          "padding": 15.0
-        },
-        {
           "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3NDY5Mzk3NDA2MQ==",
-          "image": "https://cdn.shopify.com/s/files/1/0267/3534/5709/files/222222.png?v=1629553769",
-          "padding": 15.0
+          "image": "https://cdn.shopify.com/s/files/1/0267/3534/5709/files/Untitled_design_1_322f04d4-1ef1-4f15-a1b3-c8410f350ac7.png?v=1632819196",
+          "padding": 5.0
+        },
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3NTEzOTg4MTAwNQ==",
+          "image": "https://cdn.shopify.com/s/files/1/0267/3534/5709/files/Untitled_design_e781242b-f39e-4ce7-a14b-bdaeb7b1bbec.png?v=1632819196",
+          "padding": 5.0
+        },
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4NDc5MzIwODk4NQ==",
+          "image": "https://cdn.shopify.com/s/files/1/0267/3534/5709/files/Untitled_design_2cdebb02-53f5-45a4-985e-5012c5546d11.png?v=1632818948",
+          "padding": 5.0
         }
       ]
     },
@@ -132,7 +132,7 @@
   "Setting": {
     "MainColor": "#1433ba",
     "ProductListLayout": "list",
-    "StickyHeader": false
+    "StickyHeader": true
   },
   "TabBar": [
     {
@@ -147,7 +147,7 @@
       "layout": "category",
       "icon": "rectangle_grid_1x2",
       "fontFamily": "CupertinoIcons",
-      "categoryLayout": "card",
+      "categoryLayout": "sideMenu",
       "key": "hwu0rkrizt"
     },
     {
