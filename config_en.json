@@ -10,19 +10,9 @@
       "layout": "category",
       "type": "icon",
       "wrap": false,
-      "size": 1.1,
-      "radius": 50.0,
+      "size": 1.7,
+      "radius": 40.0,
       "items": [
-        {
-
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3NDY5Mzk3NDA2MQ==",
-          "image": "https://www.pinclipart.com/picdir/big/92-921506_graphic-download-black-and-white-smartphone-clipart-mobile.png",
-          "colors": [
-            "#d6372f",
-            "#d4a09d"
-          ],
-          "originalColor": false
-        },
         {
           "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MjM2MzAzNTgwMQ==",
           "image": "https://www.pinclipart.com/picdir/big/388-3881310_see-clipart-smart-watch-smartwatch-icon-png-transparent.png",
@@ -40,7 +30,8 @@
           ]
         },
         {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3NTEzOTg4MTAwNQ==",
+
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4Njc0OTM5MzA0OQ==",
           "image": "https://library.kissclipart.com/20180921/yjw/kissclipart-power-bank-icon-clipart-ac-adapter-electric-batter-37a37efc0579d081.png",
           "colors": [
             "#5F083E",
@@ -48,23 +39,33 @@
           ]
         },
         {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MjM2NDE4MjY4MQ==",
-          "image": "https://www.pinclipart.com/picdir/big/202-2025711_tripod-png-free-download-tripod-clipart-transparent-png.png",
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3NTE2NzY2ODI2OQ==",
+          "image": "https://www.pinclipart.com/picdir/big/143-1435297_plug-and-play-plug-and-play-tech-center.png",
           "colors": [
-            "#0c0d0c",
-            "#43506A"
+            "#18b51a",
+            "#53A2CC"
           ]
         },
         {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3NDcxNzY5ODA5Mw==",
-          "image": "https://www.pinclipart.com/picdir/big/129-1294602_connecteur-usb-icon-usb-clipart.png",
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzIzMDEzMzIzNTg2NQ==",
+          "image": "https://www.pinclipart.com/picdir/big/111-1117730_karate-clipart-wikipedia-self-defense-clip-art-png.png",
           "colors": [
-            "#156ead",
+            "#e80e0e",
             "#12B58C"
           ]
+        },
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4Njc0OTA5ODEzNw==",
+          "image": "https://www.pinclipart.com/picdir/big/528-5284990_computer-music-speaker-etiquette-notes-gnome-music-note.png",
+          "colors": [
+            "#1338f0",
+            "#43506A"
+          ]
         }
+
       ]
-    },    {
+    },
+    {
       "layout": "bannerImage",
       "isSlider": true,
       "autoPlay": true,
@@ -74,17 +75,17 @@
       "radius": 2.0,
       "items": [
         {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3NDY5Mzk3NDA2MQ==",
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3NDcxMzM3MjcxNw==",
           "image": "https://cdn.shopify.com/s/files/1/0267/3534/5709/files/Untitled_design_1_322f04d4-1ef1-4f15-a1b3-c8410f350ac7.png?v=1632819196",
           "padding": 5.0
         },
         {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3NTEzOTg4MTAwNQ==",
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4Njc0OTM5MzA0OQ==",
           "image": "https://cdn.shopify.com/s/files/1/0267/3534/5709/files/Untitled_design_e781242b-f39e-4ce7-a14b-bdaeb7b1bbec.png?v=1632819196",
           "padding": 5.0
         },
         {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4NDc5MzIwODk4NQ==",
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3NjA0MzY1NTIxMw==",
           "image": "https://cdn.shopify.com/s/files/1/0267/3534/5709/files/Untitled_design_2cdebb02-53f5-45a4-985e-5012c5546d11.png?v=1632818948",
           "padding": 5.0
         }
