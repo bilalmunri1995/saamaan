@@ -75,13 +75,24 @@
       "radius": 2.0,
       "items": [
         {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4Njc0OTA5ODEzNw==",
+          "image": "https://cdn.shopify.com/s/files/1/0267/3534/5709/files/elite_e5_ade0d8d6-234f-4703-8fa7-ffb1ec4e02c6.png?v=1634550602",
+          "padding": 5.0
+        },
+        {
           "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3NDcxMzM3MjcxNw==",
-          "image": "https://cdn.shopify.com/s/files/1/0267/3534/5709/files/Untitled_design_1_322f04d4-1ef1-4f15-a1b3-c8410f350ac7.png?v=1632819196",
+          "image": "https://cdn.shopify.com/s/files/1/0267/3534/5709/files/nia_q1_94f01557-5e0c-4ff5-b753-f39ee3afc8e7.png?v=1634550639",
           "padding": 5.0
         },
         {
           "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4Njc0OTM5MzA0OQ==",
           "image": "https://cdn.shopify.com/s/files/1/0267/3534/5709/files/Untitled_design_e781242b-f39e-4ce7-a14b-bdaeb7b1bbec.png?v=1632819196",
+          "padding": 5.0
+        },
+
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3NDcxMzM3MjcxNw==",
+          "image": "https://cdn.shopify.com/s/files/1/0267/3534/5709/files/Untitled_design_1_322f04d4-1ef1-4f15-a1b3-c8410f350ac7.png?v=16328191966",
           "padding": 5.0
         },
         {
