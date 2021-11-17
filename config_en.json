@@ -42,7 +42,15 @@
           "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3NTE2NzY2ODI2OQ==",
           "image": "https://www.pinclipart.com/picdir/big/143-1435297_plug-and-play-plug-and-play-tech-center.png",
           "colors": [
-            "#18b51a",
+            "#16686e",
+            "#53A2CC"
+          ]
+        },
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI5MDA1MDYwNTIwOQ==",
+          "image": "https://www.pinclipart.com/picdir/big/578-5787033_iphone-screen-png-transparent-background-transparent-phone-screen.png",
+          "colors": [
+            "#3f3e87",
             "#53A2CC"
           ]
         },
@@ -75,13 +83,13 @@
       "radius": 2.0,
       "items": [
         {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4Njc0OTA5ODEzNw==",
-          "image": "https://cdn.shopify.com/s/files/1/0267/3534/5709/files/elite_e5_ade0d8d6-234f-4703-8fa7-ffb1ec4e02c6.png?v=1634550602",
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE4OTY1MDMwNTA2OQ==",
+          "image": "https://cdn.shopify.com/s/files/1/0267/3534/5709/files/realme_gt_app_banner.png?v=1637135126",
           "padding": 5.0
         },
         {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3NDcxMzM3MjcxNw==",
-          "image": "https://cdn.shopify.com/s/files/1/0267/3534/5709/files/nia_q1_94f01557-5e0c-4ff5-b753-f39ee3afc8e7.png?v=1634550639",
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MjM2MzAzNTgwMQ==",
+          "image": "https://cdn.shopify.com/s/files/1/0267/3534/5709/files/mibro_lite_app_banner_1.png?v=1637135083",
           "padding": 5.0
         },
         {
@@ -96,8 +104,8 @@
           "padding": 5.0
         },
         {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3NjA0MzY1NTIxMw==",
-          "image": "https://cdn.shopify.com/s/files/1/0267/3534/5709/files/Untitled_design_2cdebb02-53f5-45a4-985e-5012c5546d11.png?v=1632818948",
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3NDcxMzM3MjcxNw==",
+          "image": "https://cdn.shopify.com/s/files/1/0267/3534/5709/files/nia_q1_94f01557-5e0c-4ff5-b753-f39ee3afc8e7.png?v=1634550639",
           "padding": 5.0
         }
       ]
@@ -121,7 +129,7 @@
           "padding": 12.0
         },
         {
-          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE4Mzg1OTkwNDU1Nw==",
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MjM2MzAzNTgwMQ==",
           "image": "https://cdn.shopify.com/s/files/1/0267/3534/5709/files/New_Project-14.png?v=1629811113",
           "padding": 12.0,
           "featured": true
