@@ -83,6 +83,11 @@
       "radius": 2.0,
       "items": [
         {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3NDcxMzM3MjcxNw==",
+          "image": "https://cdn.shopify.com/s/files/1/0267/3534/5709/files/Untitled_design_10.png?v=1637928829",
+          "padding": 5.0
+        },
+        {
           "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE4OTY1MDMwNTA2OQ==",
           "image": "https://cdn.shopify.com/s/files/1/0267/3534/5709/files/realme_gt_app_banner.png?v=1637135126",
           "padding": 5.0
