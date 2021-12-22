@@ -7,6 +7,37 @@
       "showLogo": true
     },
     {
+      "layout": "button",
+      "alignment": "topRight",
+      "marginBottom": 18,
+      "item": [
+        {
+          "text": "Button",
+          "backgroundColor": "#3E6AB5",
+          "textColor": "#FFFFF",
+          "width": 70,
+          "height": 35,
+          "borderRadius": 10,
+          "textFontSize": 18,
+          "marginRight": 10,
+          "navigator": {
+            "category": 24
+          }
+          },
+        {
+           "image":"https://cdn-icons-png.flaticon.com/512/1409/1409946.png",
+          "width": 35,
+          "height": 35,
+          "borderRadius": 50,
+          "navigater":{
+            "url": "https://instagram.com"
+          }
+
+        }
+
+      ]
+    },
+    {
       "layout": "category",
       "type": "icon",
       "wrap": false,
@@ -82,6 +113,11 @@
       "showBackGround": true,
       "radius": 2.0,
       "items": [
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI4MjM2MzAzNTgwMQ==",
+          "image": "https://cdn.shopify.com/s/files/1/0267/3534/5709/files/haylou_gst_app_banner_1.png?v=1639986721",
+          "padding": 5.0
+        },
         {
           "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzE3NDcxMzM3MjcxNw==",
           "image": "https://cdn.shopify.com/s/files/1/0267/3534/5709/files/Untitled_design_10.png?v=1637928829",
